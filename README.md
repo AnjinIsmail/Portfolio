@@ -1,13 +1,18 @@
-# Portfolio
+### Portfolio
 
-# Missing Items
+### Description
 
-- Application doesn't fully resemble the mock-up
-- missing hover effect/animantion
-- missing Media Quer. (575px, 768px, 980px)
-- contact information is missing text-decoration 
+The goal of this Portfolio is sample employee's pervious work. The following appears once the Portfolio is loaded.
+- name
+-recent photo
+-section about them
+-their work
+-contact information
 
-<img src="https://github.com/AnjinIsmail/Portfolio/blob/master/assets/images/Screen%20Shot%201.png?raw=true">
-<img src="https://github.com/AnjinIsmail/Portfolio/blob/master/assets/images/Screen%20Shot%202.png?raw=true">
+# Once the user clicks on the links in the navigation, it scrolls to the corresponding section.
+# When the user clicks on the images of the application, taken to that deployed application
+# When the user resizes the page or view the site on various screens and devices, they are presented with a responsive layout that adpots to their viewport
 
+### Deployed Application:
 
+### Screenshots 
