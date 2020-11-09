@@ -17,4 +17,8 @@ The goal of this Portfolio is sample employee's pervious work. The following app
 ### Deployed Application:https://anjinismail.github.io/Portfolio/
 
 ### Screenshots 
-
+<img src = "https://github.com/AnjinIsmail/Portfolio/blob/master/assets/img/1.png">
+<img src= "https://github.com/AnjinIsmail/Portfolio/blob/master/assets/img/2.png">
+<img src="https://github.com/AnjinIsmail/Portfolio/blob/master/assets/img/3.png">
+<img src="https://github.com/AnjinIsmail/Portfolio/blob/master/assets/img/4.png">
+<img src= "https://github.com/AnjinIsmail/Portfolio/blob/master/assets/img/5.png">
